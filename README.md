@@ -1,1 +1,7 @@
-# mtm6404-frontend-mentor-amanhr05
+# Frontend Mentor Challenge
+
+**Name =** Amandeep Saini
+
+**Student Number =** 041134560
+
+**Challenge =** News homepage
